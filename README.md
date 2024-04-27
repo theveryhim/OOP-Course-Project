@@ -17,3 +17,5 @@ Multi-player room
 
 You can find the requirements(questions) in "OOP_20204_Phase1" and Ideas in "Phase1(Arman)&Phase1(Aida)"
 
+ PS:You might need to be fluent in PERSIAN to understand desvribtion '.pdf's.
+
