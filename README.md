@@ -1,7 +1,7 @@
 # CityWars_TokyoReign
 Object Oriented Programming (Java)
 
-Associates:
+With collaboration of:
 
 Arman Yazdani:       [https://telegram.me/theveryhim],[m.arman.yazdani@gmail.com]
 
@@ -13,3 +13,5 @@ a card game: City Wars(Tokyo Reign) using java.
 Current stage:
 
 Phase 1(intro)
+
+ PS:You might need to be fluent in PERSIAN to understand describtion '.pdf's.
