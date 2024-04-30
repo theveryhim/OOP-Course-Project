@@ -1,5 +1,5 @@
 # Phase 1 : Intro
-This phase is mainly about introduction to game 
+This phase is mainly about introduction to the game 
 
 aspects and trying to figure the trail out for future phases
 
