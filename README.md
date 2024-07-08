@@ -1,17 +1,41 @@
-# CityWars_TokyoReign
-Object Oriented Programming (Java)
+# Phase2 : *Implementation*
 
-With collaboration of:
+In this Phase we try to implement required stuff in command line mode which is made of 7 classes.
 
-Arman Yazdani:       [https://telegram.me/theveryhim] , [m.arman.yazdani@gmail.com]
+**INITIAL PAGE**
+- where you can login & sign up and set initial user settings.
 
-Aida Karimzadeh:        [https://t.me/ikdram] , [aidakz081@gmail.com]
+**MAIN MENU**
 
-This porject is devoted to implementation of 
-a card game: City Wars(Tokyo Reign) using java.
+where you can select:
+- START
+- Seeing the Cards
+- Profile
+- Store
+- History of the Games
+- log out:returns to INITIAL PAGE
 
-Current stage:
+**START**
 
-Phase 1(intro)
+multiplayer room where you can select:
+ - *1 vs 1*: classic match
+ - *Winner Takes All*: classic match spiced up with bet!
 
- PS:You might need to be fluent in PERSIAN to understand describtion '.pdf's.
+**Seeing the Cards**
+
+where logged in user can see their cards.
+
+**Profile**
+
+where logged in user can see & change their profile.
+
+**Store**
+
+where logged in user can visit to upgrade & buy cards.
+
+**History of the Games**
+
+where logged in user can see their previuos match results.
+
+
+ PS:You might need to be fluent in PERSIAN to understand describtion '.pdf'.
