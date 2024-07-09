@@ -10,8 +10,12 @@ Aida Karimzadeh:        [https://t.me/ikdram] , [aidakz081@gmail.com]
 This porject is devoted to implementation of 
 a card game: City Wars(Tokyo Reign) using java.
 
-Current stage:
+Current stages:
 
-Phase 1(intro)
+Phase 1(intro)✔️
+
+Phase 2(Implementation)✔️
+
+Phase 3(Graphics):ongoing
 
  PS:You might need to be fluent in PERSIAN to understand describtion '.pdf's.
