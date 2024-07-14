@@ -4,8 +4,8 @@ In this phase we tried to employ graphical design on what we did in previous sec
 
 final covered parts are:
 
- - REGISTER MENU(INITIAL PAGE)
- - MAIN MENU
- - SHOP
- - HISTORY
- - GAME MODE SELECTION
+ - REGISTER MENU(INITIAL PAGE):CITY WARS
+ - MAIN MENU:CITY WARS
+ - SHOP:CITY WARS
+ - HISTORY:CITY WARS
+ - GAME MODE SELECTION:DEMO
