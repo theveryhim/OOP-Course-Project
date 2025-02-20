@@ -1,3 +1,9 @@
+# Objective 
+This is an attempt to implement card game(City Wars: Tokyo Reign)
+<div style="text-align: center;">
+    <img src="GameCover.png" alt="Alt Text" width="200">
+</div> 
+# Progress
 Current stages:
 
 Phase 1(intro)✔️
